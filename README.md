@@ -2,10 +2,10 @@
 
 The Scene Graph is a data structure commonly used in modern computer video games and vector based graphics editing applications. It is a collection of nodes in a graph or tree structure, that is a representation of the elements of a scene. An operation performed on a parent node will effect all child nodes.
 
-This is a visual representation of those relationships on a robot written in the Python Library Three JS.
+This is a visual representation of those relationships on a robot written in the JavaScript Library Three JS.
 
 ## Set up
-Navigate to the repository directory and execute the following command to host a local server at port 8000 through python's SimpleHTTPServer library.
+Navigate to the repository directory and execute the following command to host a local server at port 8000 through Java script's SimpleHTTPServer library.
 
 ```sh
 python -m SimpleHTTPServer 8000
